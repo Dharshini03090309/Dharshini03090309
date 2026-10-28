@@ -1,49 +1,68 @@
 # Dharshini M — Resume
 
-**Data & Technical Associate | Data Analytics · Data Science · AI/ML**
-
-[LinkedIn](https://www.linkedin.com/in/dharshini-m-a9311320a/) · [GitHub](https://github.com/Dharshini03090309)
+**Data Analyst | Data Science | AI/ML**  
+Bengaluru, India · [LinkedIn](https://www.linkedin.com/in/dharshini-m-a9311320a/) · [GitHub](https://github.com/Dharshini03090309)
 
 ## Professional summary
 
-Data and Technical Associate experienced in data quality, reporting, SQL, Power BI dashboard support, and Google Apps Script automation. Background in Artificial Intelligence and Data Science, with projects covering dashboards, customer analytics, predictive modeling, NLP, and deep learning. Interested in Data Analytics, Data Science, and AI/ML roles.
+Early-career Data Analyst with an AI and Data Science background and hands-on experience in data validation, dashboard reporting, and automation at Swasti Health Catalyst. Skilled in SQL, Python, Power BI, Excel, and Google Apps Script, with project experience in machine learning, NLP, and retrieval-augmented generation (RAG). Focused on turning real-world data into reliable analysis and practical insights.
 
-## Skills
+## Technical skills
 
-- **Data analytics:** SQL, Power BI, Excel, Google Sheets, exploratory analysis, data validation, and dashboards
-- **Programming:** Python, Pandas, Matplotlib, Seaborn, Google Apps Script
-- **AI and ML:** Machine learning, deep learning, classification, NLP, sentiment analysis, and topic modeling
+- **Programming & querying:** SQL, Python
+- **BI & visualization:** Microsoft Power BI, Microsoft Excel, Google Sheets, Matplotlib, Seaborn
+- **Data analysis:** Exploratory data analysis, data cleaning, data validation, data preprocessing, data manipulation
+- **Automation:** Google Apps Script, spreadsheet automation
+- **Machine learning:** Classification, predictive modeling, ensemble learning, deep learning
+- **AI & NLP:** Sentiment analysis, topic modeling, retrieval-augmented generation (RAG), large language models
+- **Libraries:** Pandas
 
-## Experience
+## Professional experience
 
-**Data & Technical Associate — Swasti Health Catalyst** | Jan 2026–Present
-- Support SQL and Power BI dashboards and prepare analytical visualizations.
-- Maintain program datasets, validate data quality, and resolve technical queries.
-- Build Google Apps Script automations for routine data workflows.
+**Data & Technical Associate — Swasti Health Catalyst, Bengaluru** | January 2026–Present
 
-**Data Analyst Fellow — Swasti Health Catalyst** | Jul–Dec 2025
-- Supported dashboards, metrics reporting, evidence verification, and data integrity checks.
+- Maintain and update datasets for program monitoring and reporting, keeping data accurate and current.
+- Perform data validation, sampling, and evidence verification to improve reporting consistency.
+- Support SQL- and Power BI-based dashboards used by program teams for data-driven decisions.
+- Build Google Apps Script automations to clean, merge, and process spreadsheet data, reducing repetitive manual work.
+- Resolve technical and data-related queries with program teams to improve data reliability and accessibility.
 
-**AI/ML with Data Science Intern — YBI Foundation** | May–Jun 2025
-- Analyzed air-quality data (2015–2024) using Python and visualization libraries.
+**Data Analyst Fellow — Swasti Health Catalyst** | July 2025–December 2025
 
-## Selected projects
+- Supported the development and maintenance of internal reporting dashboards.
+- Analyzed and validated program data, including evidence verification and data accuracy checks.
+- Collaborated with internal teams to investigate and resolve data issues.
 
-- [Patient Recovery Analysis — Excel Dashboard](https://github.com/Dharshini03090309/Excel-Dashboard-Patient-Recovery-Analysis-Report)
-- [Stroke Analysis — Power BI Dashboard](https://github.com/Dharshini03090309/Power-Bi-Dashboard-Stroke-Analysis-Report)
-- [British Airways Reviews — Data Science](https://github.com/Dharshini03090309/Data-Science-Virtual-Job-Simulation-British-Airways)
-- [Banking Customer Exit Analysis — ML](https://github.com/Dharshini03090309/BankingCustomerExitAnalysis)
-- [CoBot — Carbon Trading Ally](https://github.com/Dharshini03090309/Cobot-My-Carbon-Trading-Ally)
-- [Driver Behaviour Classification — Deep Learning](https://github.com/Dharshini03090309/Deep-Learning-Based-Driver-Behaviour-Classification-Using-Pre-Trained-Models)
+**AI/ML with Data Science Intern — YBI Foundation** | May 2025–June 2025
+
+- Conducted exploratory analysis of air-quality data (2015–2024) with Python, Pandas, Matplotlib, and Seaborn.
+- Inspected city- and station-level data, checked missing values and duplicates, and visualized temporal, geographic, and pollutant trends.
+
+## Projects
+
+**[Patient Recovery Analysis — Excel Dashboard](https://github.com/Dharshini03090309/Excel-Dashboard-Patient-Recovery-Analysis-Report)** | November 2025  
+Developed an interactive dashboard with filters and visualizations to make patient recovery data easier to explore.
+
+**[Stroke Analysis — Power BI Dashboard](https://github.com/Dharshini03090309/Power-Bi-Dashboard-Stroke-Analysis-Report)** | November 2025  
+Built an interactive dashboard exploring stroke-related data across different patient characteristics.
+
+**[British Airways Reviews — NLP & Predictive Modeling](https://github.com/Dharshini03090309/Data-Science-Virtual-Job-Simulation-British-Airways)** | May 2025  
+Collected review data through web scraping and applied data preparation, sentiment analysis, topic modeling, and predictive modeling to explore customer feedback.
+
+**[Banking Customer Exit Analysis — Machine Learning](https://github.com/Dharshini03090309/BankingCustomerExitAnalysis)**  
+Applied machine learning, deep learning, and ensemble approaches to churn prediction and explored factors associated with customer attrition.
+
+**[CoBot: Your Carbon Trading Ally — RAG & Gemini](https://github.com/Dharshini03090309/Cobot-My-Carbon-Trading-Ally)** | April–June 2025  
+Collaborated with a team at Vellore Institute of Technology to develop an AI assistant for carbon trading using RAG and Gemini-related technologies.
 
 ## Education
 
-- **PG Certification in Artificial Intelligence**, Vellore Institute of Technology (2024–2025)
-- **B.Tech in AI & Data Science**, Karunya Institute of Technology and Sciences (2020–2024)
+- **Vellore Institute of Technology** — PG Certification in Artificial Intelligence (2024–2025), GPA: 10/10
+- **Karunya Institute of Technology and Sciences** — B.Tech in AI and Data Science (2020–2024), CGPA: 7.35/10
 
 ## Certifications
 
-Python for Data Science (NPTEL, Elite) · Introduction to Large Language Models · Innovating with Google Cloud AI · Data Science 101 · Google Sheets
+Python for Data Science (NPTEL, Elite) · Introduction to Large Language Models · Innovating with Google Cloud Artificial Intelligence · Data Science 101: What is Data Science?
 
 ---
-*Public portfolio version of my resume; contact me via LinkedIn.*
+*Public resume summary. Connect through LinkedIn for inquiries.*
