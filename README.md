@@ -4,7 +4,7 @@
 
 I'm a **Data & Technical Associate at Swasti Health Catalyst**, working with data and building practical tools that turn complex problems into useful solutions. I'm especially interested in **data analytics, machine learning, AI-powered applications, and accessible technology**.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Dharshini03090309-181717?style=flat&logo=github&logoColor=white)](https://github.com/Dharshini03090309)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharshini-m-a9311320a/) [![Resume](https://img.shields.io/badge/Resume-View%20Online-444444?style=flat&logo=readthedocs&logoColor=white)](https://github.com/Dharshini03090309/Dharshini03090309/blob/main/RESUME.md) [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com/Dharshini03090309)
 
 ### Building & exploring
 
