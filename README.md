@@ -13,6 +13,7 @@ The technologies listed here aren't a claim that I've mastered them. They're too
 ### Building & exploring
 
 - **[Unlooped](https://github.com/Dharshini03090309/Unlooped)** — An anxiety wellness support MVP with grounding activities, journaling, and support resources.
+- **NGO data verification model** *(exploration stage)* — Exploring ways to use data validation, evidence checks, and AI-assisted tools to help NGOs identify inconsistencies and improve the reliability of collected data. No completed model or live demo yet.
 - **Offline-first data collection** — Exploring configurable questionnaires, conditional logic, and synchronization for field data collection *(in design)*.
 - **Automation & analytics** — Working on data validation workflows, dashboards, and reporting tools.
 
