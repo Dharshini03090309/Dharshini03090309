@@ -9,7 +9,6 @@ I'm a **Data & Technical Associate at Swasti Health Catalyst**, working with dat
 ### Building & exploring
 
 - **[Unlooped](https://github.com/Dharshini03090309/Unlooped)** — An anxiety wellness support MVP with grounding activities, journaling, and support resources.
-- **SETU** — A multilingual government scheme discovery and eligibility assistant *(in development)*.
 - **Offline-first data collection** — Exploring configurable questionnaires, conditional logic, and synchronization for field data collection *(in design)*.
 - **Automation & analytics** — Working on data validation workflows, dashboards, and reporting tools.
 
@@ -23,9 +22,9 @@ I'm a **Data & Technical Associate at Swasti Health Catalyst**, working with dat
 
 ### Tools I work with
 
-**Languages & data:** Python · SQL · Excel · Google Sheets  
-**Analytics & visualization:** Power BI · Data Analysis · Dashboards  
-**AI & development:** Machine Learning · Deep Learning · NLP · Git & GitHub
+**Languages & data:** Python · SQL · Pandas · Excel · Google Sheets  
+**Analytics & visualization:** Power BI · Matplotlib · Seaborn · Data Cleaning · Dashboards  
+**AI & development:** Machine Learning · Deep Learning · NLP · RAG · Git & GitHub
 
 ---
 
