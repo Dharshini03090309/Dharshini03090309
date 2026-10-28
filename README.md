@@ -8,7 +8,7 @@ For me, building a project isn't just about adding another one to my GitHub. I w
 
 The technologies listed here aren't a claim that I've mastered them. They're tools I'm learning, practicing, and experimenting with, one day at a time. My goal is to keep growing until I can put what I learn to good use.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-4F7A65?style=flat&logo=netlify&logoColor=white)](https://dharshinim-0309dh.netlify.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharshini-m-a9311320a/) [![Resume](https://img.shields.io/badge/Resume-View%20Online-444444?style=flat&logo=readthedocs&logoColor=white)](https://github.com/Dharshini03090309/Dharshini03090309/blob/main/RESUME.md) [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com/Dharshini03090309)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-4F7A65?style=flat&logo=netlify&logoColor=white)](https://dharshinim-0309dh.netlify.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharshini-m-a9311320a/) [![Resume](https://img.shields.io/badge/Resume-Download%20PDF-444444?style=flat&logo=readthedocs&logoColor=white)](https://dharshinim-0309dh.netlify.app/Dharshini_M_Resume.pdf) [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com/Dharshini03090309)
 
 ### Building & exploring
 
